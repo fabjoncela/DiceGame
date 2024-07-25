@@ -25,5 +25,5 @@ function rollDice() {
   document.getElementById("refreshButton").addEventListener("click", rollDice);
   
   // Initial roll on page load
-  rollDice();
+  //rollDice();
   
